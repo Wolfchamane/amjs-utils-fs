@@ -23,7 +23,7 @@ module.exports = (route = '') =>
 {
     route = route
         .split(path.sep)
-        .map(item => !item ? path.sep : item);
+        .map(item => (item ? item : path.sep));
 
     let node = route.shift();
     _mkdir(node);
