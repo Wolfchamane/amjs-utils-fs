@@ -1,6 +1,6 @@
 {
     "name": "@amjs/utils-fs",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Provides set of top-level utilities for filesystem management",
     "keywords": [
         "nodejs",
@@ -16,7 +16,7 @@
         "url": "git@github.com:Wolfchamane/amjs-utils-fs.git"
     },
     "author": "Arturo Martínez <arturo.mart.diaz@gmail.com>",
-    "main": "index.mjs",
+    "main": "index.js",
     "devDependencies": {
         "@amjs/create-readme": "^0.1.0",
         "@babel/core": "^7.6.0",
