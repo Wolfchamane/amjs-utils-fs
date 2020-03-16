@@ -1,6 +1,6 @@
 {
     "name": "@amjs/utils-fs",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Provides set of top-level utilities for filesystem management",
     "keywords": [
         "nodejs",
@@ -18,14 +18,14 @@
     "author": "Arturo Martínez <arturo.mart.diaz@gmail.com>",
     "main": "index.js",
     "devDependencies": {
-        "@amjs/create-readme": "^0.1.0",
-        "@babel/core": "^7.6.0",
-        "@babel/preset-env": "^7.6.0",
-        "@babel/register": "^7.6.0",
+        "@amjs/create-readme": "^0.1.2",
+        "@babel/core": "^7.8.7",
+        "@babel/preset-env": "^7.8.7",
+        "@babel/register": "^7.8.6",
         "@istanbuljs/nyc-config-babel": "^2.1.1",
-        "babel-eslint": "^10.0.3",
+        "babel-eslint": "^10.1.0",
         "babel-plugin-istanbul": "^5.1.4",
-        "eslint": "^6.3.0",
+        "eslint": "^6.8.0",
         "lint-staged": "^9.2.5",
         "nyc": "^14.1.1",
         "prettier": "^1.18.2"
